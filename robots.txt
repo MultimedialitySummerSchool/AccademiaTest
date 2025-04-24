@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://MultimedialitySummerSchool.github.io/AccademiaTest
+
+# Sitemaps
+Sitemap: https://MultimedialitySummerSchool.github.io/AccademiaTest/sitemap.xml
