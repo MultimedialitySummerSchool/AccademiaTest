@@ -1,12 +1,10 @@
 {
   "collection": "https://multimedialitysummerschool.github.io/Tropiify-Accademia/index.json",
-  "featured": [
-    "https://multimedialitysummerschool.github.io/Tropiify-Accademia/1/manifest.json",
-  ],
-  "metadata": ["Date", "Type"],
-  "label": { "none": ["Documents of the Archivio di Stato di Roma"] },
+  "devCollection": "https://multimedialitysummerschool.github.io/Tropiify-Accademia/index.json",
+  "metadata": ["Date"],
+  "label": { "none": ["Tropiiify Example Site"] },
   "summary": {
-    "none": ["Brief description of the site and its contents."]
+    "none": ["An Example Site using Tropiiify"]
   },
   "theme": {
     "defaultTheme": "light",
