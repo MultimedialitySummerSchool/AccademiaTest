@@ -1,11 +1,11 @@
 {
-  "collection": "https://example.org/iiif/collection.json",
-  "devCollection": "https://example.org/iiif/collection-small-sample.json",
+  "collection": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/index.json",
+  "devCollection": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/index.json",
   "featured": [
-    "https://example.org/manifest-1.json",
-    "https://example.org/manifest-2.json"
+    "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/manifest.json",
+    "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/manifest.json"
   ],
-  "metadata": ["Date", "Subject"],
+  "metadata": ["Date"],
   "label": { "none": ["Collection Title"] },
   "summary": {
     "none": ["Brief description of the site and its contents."]
