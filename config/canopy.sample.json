@@ -1,9 +1,9 @@
 {
-  "collection": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/index.json",
-  "devCollection": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/index.json",
+  "collection": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/index.json",
+  "devCollection": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/index.json",
   "featured": [
-    "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/1/manifest.json",
-    "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/2/manifest.json"
+    "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/manifest.json",
+    "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/2/manifest.json"
   ],
   "metadata": ["Date"],
   "label": { "none": ["Collection Title"] },
