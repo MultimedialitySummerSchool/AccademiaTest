@@ -17,10 +17,4 @@
     "radius": "small",
     "scaling": "100%"
   }
-  {
-  "collection": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/index.json",
-  "components": {
-    "viewer": "clover"
-  }
-}
 }
