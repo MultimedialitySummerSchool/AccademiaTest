@@ -2,9 +2,9 @@
   "collection": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/index.json",
   "devCollection": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/index.json",
   "metadata": ["Date"],
-  "label": { "none": ["Tropiiify Example Site"] },
+  "label": { "none": ["Collection of Documents from the Accademia di San Luca"] },
   "summary": {
-    "none": ["An Example Site using Tropiiify"]
+    "none": ["The documents used here have been exported using Tropy extension Tropiiify"]
   },
   "theme": {
     "defaultTheme": "light",
