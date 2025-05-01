@@ -1,7 +1,7 @@
 {
   "collection": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/index.json",
   "components": {
-    "viewer": "clover" 
+    "viewer": "ramp" 
   },
   "devCollection": "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/index.json",
   "featured": [
