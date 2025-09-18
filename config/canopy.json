@@ -5,8 +5,8 @@
     "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/1/manifest.json",
     "https://multimedialitysummerschool.github.io/Accademia-Tropiiify/iiif/2/manifest.json"
   ],
-  "metadata": ["Date", "Creator"],
-  "label": { "none": ["Collection of Documents from the Accademia di San Luca"] },
+  "metadata": ["Date", "Creator", "Document type", "Associated name"],
+  "label": { "none": ["Manifest of two documents from the Archivio di Stato di Roma pertaining to the Accademia di San Luca"] },
   "summary": {
     "none": ["The documents used here have been exported using Tropy extension Tropiiify"]
   },
